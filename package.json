@@ -1,14 +1,23 @@
 {
-  "name": "Asclepius",
+  "name": "asclepius",
   "version": "1.0.0",
   "description": "Asclepius adalah sistem pemeriksaan kulit secara otomatis",
   "scripts": {
     "start": "http-server ."
   },
   "keywords": [],
-  "author": "",
+  "author": "submissionMLGC-odang",
   "license": "ISC",
   "devDependencies": {
     "http-server": "^14.1.1"
-  }
+  },
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tanerizawa/backend-asclepius.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tanerizawa/backend-asclepius/issues"
+  },
+  "homepage": "https://github.com/tanerizawa/backend-asclepius#readme"
 }
